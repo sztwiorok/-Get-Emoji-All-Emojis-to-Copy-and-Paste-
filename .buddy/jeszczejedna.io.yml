@@ -1,12 +1,1 @@
-'@':
-- type: SOA
-  values: bison.dev.page. hostmaster.jeszczejedna.io. 2024111301 10800 3600 604800 3600
-- type: NS
-  values:
-  - bison.dev.page.
-  - lynx.dev.page.
-  - stork.dev.page.
-  - wolf.dev.page.
-- type: A
-  ttl: 200
-  values: 2.2.2.3
+
